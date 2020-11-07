@@ -1,6 +1,6 @@
 ### Numerical_Analysis_Advanced_MS_KHU
   
-- Homeworks and implementation codes for numerical analysis (graduate school in KHU)
+- Homeworks and implementation codes for numerical analysis (graduate school of KHU)
 
 #### Instructor  
 - Prof. Hyeahyun Kim
